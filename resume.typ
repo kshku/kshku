@@ -29,7 +29,7 @@
 == PROFILE
 sep_line
 Curious engineering student with an interest in low-level and system development.
-Learns primarily through experimentation, and building practical, hands-on projects.
+Learns primarily through experimentation and building practical, hands-on projects.
 
 == EDUCATION
 sep_line
@@ -41,9 +41,10 @@ Relevant Coursework: Data Structures, OS, Computer Networks, Automata Theory
 == ACTIVITIES & CONTRIBUTIONS
 sep_line
 *Hash Shell | C* \
-Contributor #h(1fr) \
+Contributor \
 - Optimized interactive shell behavior by resolving multi-line continuation bugs in quoted strings.
 - Fixed tab-completion prefix errors and ensured consistent terminal state during interactive mode.
+- Refactored long functions and aligned code with the coding standards according to contributing guidelines.
 - Adhered to upstream coding standards and performance requirements during the PR review process.
 
 == PROJECTS
@@ -73,13 +74,13 @@ sep_line
 
 *Other Projects*
 - *GoAuth:* Implementation of traditional REST-based authentication service in Go.
-- *WOL-Android:* Android app running an HTTP server and broadcasts Wake-on-LAN packets to LAN on request.
-- *WallhavenAPI:* Wallhaven API client library in C and cli-tool to install wallpapers(whcli).
+- *WOL-Android:* Android app that runs an HTTP server and broadcasts Wake-on-LAN packets to LAN on request.
+- *WallhavenAPI:* Wallhaven API client library in C and CLI tool to install wallpapers(whcli).
 - *WSO:* A shell script to save and open shortcuts to web pages.
 
 == SKILLS & OTHERS
 sep_line
-*Languages:* C, C++, x86_64 Assembly (inline/MASM), Python, Java, Go, POSIX Shell Script \
-*Systems:* POSIX APIs, Virtual Memory, Threading, Synchronization \
-*Tools:* Git, Linux/Unix Shell, CMake, Typst, Vim. \
+*Technical Skills:* C, C++, x86_64 Assembly (inline/MASM), Python, Java, Go, POSIX Shell Script;
+POSIX APIs, Memory Management, Threading, Synchronization;
+Git, Linux/Unix Shell, CMake, Typst, Vim; \
 *Awards:* Winner of *Nexathon 2025* (SDIT) and *DevHack 2025* (Sahyadri College).
