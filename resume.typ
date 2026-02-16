@@ -1,3 +1,7 @@
+#set document(
+  title: "Resume: K Shreekirshna Upadhyaya"
+)
+
 #set page(
   margin: (x: 1.5cm, y: 1.5cm),
   paper: "a4",
