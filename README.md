@@ -1,16 +1,81 @@
-## Hi there 👋
+# Hi, I'm kshku 👋
 
-<!--
-**kshku/kshku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious engineering student interested in systems programming, programming languages, software architecture, and AI.
 
-Here are some ideas to get you started:
+Most of my projects are built to better understand how software works by implementing concepts from scratch while exploring modern software development workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 My Projects
+
+### 📦 Sn Project
+
+The **Sn Project** is a collection of modular C libraries designed to provide reusable building blocks for native software development.
+Each library focuses on a specific area while sharing consistent design principles and API conventions.
+
+The Sn Project is an ongoing effort, with new libraries added as common functionality is extracted into reusable components.
+
+| Library | Description |
+|---------|-------------|
+| [**SnCore**](https://github.com/kshku/SnCore) | Core foundation for Sn libraries |
+| [**SnMemory**](https://github.com/kshku/SnMemory) | Memory allocators and virtual memory abstraction |
+| [**SnThreads**](https://github.com/kshku/SnThreads) | Thread and synchronization abstraction library |
+| [**SnLogger**](https://github.com/kshku/SnLogger) | Logging library with synchronous and asynchronous modes |
+| [**SnPlatform**](https://github.com/kshku/SnPlatform) | Platform abstraction layer |
+| [**SnContainer**](https://github.com/kshku/SnContainer) | Generic container library |
+| [**SnFile**](https://github.com/kshku/SnFile) | File system and I/O utilities |
+| [**SnEnv**](https://github.com/kshku/SnEnv) | Environment variable and process environment utilities |
+| [**SnDL**](https://github.com/kshku/SnDL) | Dynamic loading library for shared libraries |
+| [**SnTime**](https://github.com/kshku/SnTime) | Time and clock utilities |
+| [**SnTracer**](https://github.com/kshku/SnTracer) | Tracing library |
+| [**SnTest**](https://github.com/kshku/SnTest) | Unit testing framework |
+
+---
+
+### 📒 [FinDiary](https://github.com/kshku/FinDiary)
+
+A personal finance tracking and expense management application.
+
+Unlike my other projects, FinDiary is being developed using a Specification-Driven Development (SDD) workflow, where specifications drive implementation through an agentic AI workflow instead of manually writing production code.
+
+---
+
+### 📜 [Snuk](https://github.com/kshku/Snuk)
+
+An embeddable scripting language written in C.
+
+Snuk is an experimental language project for exploring language design, parsing, interpretation, runtime systems, and embedding.
+
+---
+
+### 💡 Other Notable Projects
+
+| Project | Description |
+|---------|-------------|
+| [**LC3VM**](https://github.com/kshku/LC3VM) | LC-3 virtual machine emulator |
+| [**StateFlow**](https://github.com/kshku/StateFlow) | DFA and NFA simulator |
+| [**wallhavenapi**](https://github.com/kshku/wallhavenapi) | Wallhaven API client library for C |
+| [**whcli**](https://github.com/kshku/whcli) | Command-line client for Wallhaven |
+| [**Kilo**](https://github.com/kshku/Kilo) | Kilo text editor implementation |
+| [**Sudoku**](https://github.com/kshku/Sudoku) | Sudoku generator and solver |
+| [**regex-exp**](https://github.com/kshku/regex-exp) | Regular expression engine experiments |
+
+---
+
+## 💻 Interests
+
+- Systems Programming
+- Programming Languages
+- Software Architecture
+- Artificial Intelligence
+- Concurrent Programming
+- Game Engine Development
+- High-performance Computing
+
+---
+
+## 📫 Connect
+
+- GitHub: [kshku](https://github.com/kshku)
+- LinkedIn: [in/kshku](https://linkedin.com/in/kshku)
+- Email: <upadhyayashreekrishna@gmail.com>
