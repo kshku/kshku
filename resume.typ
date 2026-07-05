@@ -1,9 +1,9 @@
 #set document(
-  title: "Resume: K Shreekirshna Upadhyaya"
+  title: "Resume: K Shreekrishna Upadhyaya"
 )
 
 #set page(
-  margin: (x: 1.5cm, y: 1.5cm),
+  margin: (x: 1.5cm, y: 1.0cm),
   paper: "a4",
 )
 
@@ -32,19 +32,22 @@
 
 == PROFILE
 sep_line
-Curious engineering student with an interest in low-level and system development.
-Learns primarily through experimentation and building practical, hands-on projects.
+
+Curious engineering student focused on low-level development, systems programming, software architecture, and interested in AI.
+Learning through experimentation and hands-on projects while exploring modern software development workflows.
 
 == EDUCATION
 sep_line
+
 *VIVEKANANDA COLLEGE OF ENGINEERING AND TECHNOLOGY, PUTTUR* #h(1fr) DK, Karnataka \
-Bachelor of Engineering in Artificial Intelligence & Machine Learning #h(1fr) 2023 -- Present \
-Cumulative GPA (till 5th semester): 8.8/10.0 \
-Relevant Coursework: Data Structures, OS, Computer Networks, Automata Theory
+Bachelor of Engineering in Artificial Intelligence & Machine Learning #h(1fr) September 2023 -- Present \
+Cumulative GPA (till 6th semester): 8.69/10.0 \
+Relevant Coursework: Data Structures, OS, Computer Networks, AI, Machine Learning
 
 == ACTIVITIES & CONTRIBUTIONS
 sep_line
-*Hash Shell | C* \
+
+*Hash Shell | C* #h(1fr) January 2026 - Present \
 Contributor \
 - Optimized interactive shell behavior by resolving multi-line continuation bugs in quoted strings.
 - Fixed tab-completion prefix errors and ensured consistent terminal state during interactive mode.
@@ -53,38 +56,37 @@ Contributor \
 
 == PROJECTS
 sep_line
-*Sn-prefix Libraries | C, x86_64 ASM* #h(1fr) Present \
-- Developing a collection of cross-platform libraries for reuse across multiple projects with minimal dependencies.
-- Implemented cross-platform file system access, virtual memory, and synchronization tools.
-- Built synchronous and asynchronous logging and tracing utilities.
+
+*Sn Project | C, x86_64 Assembly* #h(1fr) December 2025 - Present \
+- Developing a modular collection of cross-platform C libraries that provide reusable building blocks for native software development.
+- Implemented reusable components including virtual memory abstraction, file system APIs, threading, synchronization, logging, tracing, and dynamic loading with consistent APIs and minimal dependencies.
+
+*FinDiary | Go, PostgreSQL, Flutter, gRPC* #h(1fr) July 2026 - Present \
+- Developing a personal finance tracking application using a Specification-Driven Development (SDD) workflow.
+- Building backend services in Go with PostgreSQL and a Flutter-based client application.
+- Using agentic AI to generate implementation from reviewed specifications while maintaining architectural consistency.
+
+*Snuk | C* #h(1fr) April 2023 - Present \
+- Developing an embeddable scripting language for integration into native applications.
+- Exploring language design, lexical analysis, parsing, interpreter implementation, and lightweight runtime systems for embedding into native applications.
 
 *Regex Engine | C* #h(1fr) December 2025 \
-- Built a parser for regex patterns supporting basic operators (wildcards, quantifiers, concatenation, grouping).
-- Implemented Thompson-style NFA construction and simulation for pattern matching in input text.
-
-*StateFlow: DFA and NFA simulator | C, Raylib* #h(1fr) September 2025 \
-- Built a visual simulator to show state transitions for DFA and NFA automata.
-- Created a UI to design custom automata and validate formal logic through step-by-step simulation.
-
-*Cross-Platform Game Engine Core | C, x86_64 ASM, Vulkan* #h(1fr) February -- May 2025 \
-- Implemented atomic operations using inline and MASM x86_64 assembly for thread-safety.
-- Built a thread abstraction layer and manual memory management using custom allocators.
-- Developed a windowing abstraction layer supporting Win32, X11, and Wayland backends.
-- Implemented input and event subsystems.
+- Built a regular expression parser supporting grouping, alternation, concatenation, and quantifiers.
+- Implemented Thompson-style NFA construction and simulation for efficient pattern matching.
 
 *LC3VM & Kilo Editor | C* #h(1fr) 2024 -- 2025 \
-- Implemented the LC-3 virtual machine including instruction decoding, memory model, and execution loop.
-- Built a terminal-based text editor using ncurses for buffer and cursor management.
+- Implemented an LC-3 virtual machine including instruction decoding, memory model, and execution loop.
+- Built a terminal-based text editor implementing cursor movement, text buffers, and editing operations.
 
-*Other Projects*
-- *GoAuth:* Implementation of traditional REST-based authentication service in Go.
-- *WOL-Android:* Android app that runs an HTTP server and broadcasts Wake-on-LAN packets to LAN on request.
-- *WallhavenAPI:* Wallhaven API client library in C and CLI tool to install wallpapers(whcli).
-- *WSO:* A shell script to save and open shortcuts to web pages.
+*Other Projects:* \
+- *Systems & Tools:* StateFlow (DFA/NFA simulator), whcli (Wallhaven API client), WSO (web shortcut manager, shell).
+- *Backend & Networking:* GoAuth (Go REST service), WOL-Android (Wake-on-LAN utility).
 
 == SKILLS & OTHERS
 sep_line
-*Technical Skills:* C, C++, x86_64 Assembly (inline/MASM), Python, Java, Go, POSIX Shell Script;
-POSIX APIs, Memory Management, Threading, Synchronization;
-Git, Linux/Unix Shell, CMake, Typst, Vim; \
+
+*Languages & Build Tools:* C, C++, CMake, Python, x86_64 Assembly(inline/MASM), Go, Java, POSIX Shell Script; \
+*Systems:* POSIX APIs, Memory Management, Virtual Memory, Threading, Synchronization, File Systems; \
+*Backend & Development:* REST APIs, PostgreSQL, Flutter, Specification-Driven Development, Agentic AI Workflows; \
+*Tools:* Git, Linux/Unix Shell, Typst, Vim; \
 *Awards:* Winner of *Nexathon 2025* (SDIT) and *DevHack 2025* (Sahyadri College).

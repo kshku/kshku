@@ -1,7 +1,7 @@
 # Hi, I'm kshku 👋
 
 Curious engineering student focused on low-level development, systems programming, software architecture, and interested in AI.
-Learning through experimentation, hands-on projects, and modern software development workflows.
+Learning through experimentation and hands-on projects while exploring modern software development workflows.
 
 📄 [**Resume**](./Resume_K_Shreekrishna_Upadhyaya.pdf)
 
