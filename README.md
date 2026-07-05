@@ -33,6 +33,7 @@ The Sn Project originated from my experimental cross-platform game engine, with 
 | [**SnTime**](https://github.com/kshku/SnTime) | Time and clock utilities |
 | [**SnTracer**](https://github.com/kshku/SnTracer) | Tracing library |
 | [**SnTest**](https://github.com/kshku/SnTest) | Unit testing framework |
+| [**SnNetwork**](https://github.com/kshku/SnNetwork) | Socket and networking abstraction library |
 
 ---
 

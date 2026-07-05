@@ -59,14 +59,14 @@ sep_line
 
 *Sn Project | C, x86_64 Assembly* #h(1fr) December 2025 - Present \
 - Developing a modular collection of cross-platform C libraries that provide reusable building blocks for native software development.
-- Implemented reusable components including virtual memory abstraction, file system APIs, threading, synchronization, logging, tracing, and dynamic loading with consistent APIs and minimal dependencies.
+- Implemented reusable components including virtual memory abstraction, file system APIs, threading, synchronization, logging, networking, tracing, and dynamic loading with consistent APIs and minimal dependencies.
 
 *FinDiary | Go, PostgreSQL, Flutter, gRPC* #h(1fr) July 2026 - Present \
 - Developing a personal finance tracking application using a Specification-Driven Development (SDD) workflow.
 - Building backend services in Go with PostgreSQL and a Flutter-based client application.
 - Using agentic AI to generate implementation from reviewed specifications while maintaining architectural consistency.
 
-*Snuk | C* #h(1fr) April 2023 - Present \
+*Snuk | C* #h(1fr) April 2026 - Present \
 - Developing an embeddable scripting language for integration into native applications.
 - Exploring language design, lexical analysis, parsing, interpreter implementation, and lightweight runtime systems for embedding into native applications.
 
