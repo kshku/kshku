@@ -1,6 +1,9 @@
 # Hi, I'm kshku 👋
 
-Curious engineering student interested in systems programming, programming languages, software architecture, and AI.
+Curious engineering student focused on low-level development, systems programming, software architecture, and interested in AI.
+Learning through experimentation, hands-on projects, and modern software development workflows.
+
+📄 [**Resume**](./Resume_K_Shreekrishna_Upadhyaya.pdf)
 
 Most of my projects are built to better understand how software works by implementing concepts from scratch while exploring modern software development workflows.
 
@@ -14,6 +17,7 @@ The **Sn Project** is a collection of modular C libraries designed to provide re
 Each library focuses on a specific area while sharing consistent design principles and API conventions.
 
 The Sn Project is an ongoing effort, with new libraries added as common functionality is extracted into reusable components.
+The Sn Project originated from my experimental cross-platform game engine, with reusable components gradually extracted into independent libraries.
 
 | Library | Description |
 |---------|-------------|
@@ -44,7 +48,7 @@ Unlike my other projects, FinDiary is being developed using a Specification-Driv
 
 An embeddable scripting language written in C.
 
-Snuk is an experimental language project for exploring language design, parsing, interpretation, runtime systems, and embedding.
+Snuk is an experimental language project for exploring language design, parsing, interpretation, and runtime environments.
 
 ---
 
@@ -52,13 +56,14 @@ Snuk is an experimental language project for exploring language design, parsing,
 
 | Project | Description |
 |---------|-------------|
+| [**Cross-Platform Game Engine**](https://github.com/kshku/VahniEngineOld) | Experimental game engine exploring rendering, windowing, input, threading, memory management, and platform abstraction in C |
 | [**LC3VM**](https://github.com/kshku/LC3VM) | LC-3 virtual machine emulator |
 | [**StateFlow**](https://github.com/kshku/StateFlow) | DFA and NFA simulator |
 | [**wallhavenapi**](https://github.com/kshku/wallhavenapi) | Wallhaven API client library for C |
 | [**whcli**](https://github.com/kshku/whcli) | Command-line client for Wallhaven |
 | [**Kilo**](https://github.com/kshku/Kilo) | Kilo text editor implementation |
 | [**Sudoku**](https://github.com/kshku/Sudoku) | Sudoku generator and solver |
-| [**regex-exp**](https://github.com/kshku/regex-exp) | Regular expression engine experiments |
+| [**regex-exp**](https://github.com/kshku/regex-exp) | Regular expression engine using Thompson-style NFA construction and simulation |
 
 ---
 
@@ -76,6 +81,7 @@ Snuk is an experimental language project for exploring language design, parsing,
 
 ## 📫 Connect
 
+- 📄 [**Resume**](./Resume_K_Shreekrishna_Upadhyaya.pdf)
 - GitHub: [kshku](https://github.com/kshku)
 - LinkedIn: [in/kshku](https://linkedin.com/in/kshku)
 - Email: <upadhyayashreekrishna@gmail.com>
