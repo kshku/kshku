@@ -3,7 +3,7 @@
 Curious engineering student focused on low-level development, systems programming, software architecture, and interested in AI.
 Learning through experimentation and hands-on projects while exploring modern software development workflows.
 
-📄 [**Resume**](./Resume_K_Shreekrishna_Upadhyaya.pdf)
+📄 [**Resumes**](./resume/pdf)
 
 Most of my projects are built to better understand how software works by implementing concepts from scratch while exploring modern software development workflows.
 
@@ -79,10 +79,7 @@ Snuk is an experimental language project for exploring language design, parsing,
 - High-performance Computing
 
 ---
-
-## 📫 Connect
-
-- 📄 [**Resume**](./Resume_K_Shreekrishna_Upadhyaya.pdf)
-- GitHub: [kshku](https://github.com/kshku)
-- LinkedIn: [in/kshku](https://linkedin.com/in/kshku)
-- Email: <upadhyayashreekrishna@gmail.com>
+[Resumes](./Resume_K_Shreekrishna_Upadhyaya.pdf)
+| [GitHub](https://github.com/kshku)
+| [LinkedIn](https://linkedin.com/in/kshku)
+| <upadhyayashreekrishna@gmail.com>
