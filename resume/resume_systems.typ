@@ -1,3 +1,6 @@
+#import "components/header.typ" : header
+#import "components/education.typ" : engineering
+
 #set document(
   title: "Resume: K Shreekrishna Upadhyaya - Systems",
 )
@@ -18,17 +21,7 @@
 
 #show "sep_line": it => line(length: 100%, stroke: 0.5pt)
 
-#align(center)[
-  #block(text(weight: "bold", size: 1.5em)[K SHREEKRISHNA UPADHYAYA])
-  #v(-0.5em)
-  #text(size: 0.9em)[
-    Mangalore, India
-    | P: +91 9686108613
-    | #link("mailto:upadhyayashreekrishna@gmail.com")[upadhyayashreekrishna\@gmail.com]
-    | #link("https://www.linkedin.com/in/kshku")[linkedin.com/in/kshku]
-    | #link("https://www.github.com/kshku")[github.com/kshku]
-  ]
-]
+#header
 
 == PROFILE
 sep_line
@@ -37,9 +30,7 @@ Built memory managers, language runtimes, and cross-platform software from first
 
 == EDUCATION
 sep_line
-*VIVEKANANDA COLLEGE OF ENGINEERING AND TECHNOLOGY, PUTTUR* #h(1fr) DK, Karnataka \
-Bachelor of Engineering in Artificial Intelligence & Machine Learning #h(1fr) September 2023 -- Present \
-Cumulative GPA (till 6th semester): 8.69/10.0 \
+#engineering
 Relevant Coursework: Operating Systems, Data Structures, Computer Networks
 
 == PROJECTS
