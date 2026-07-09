@@ -32,8 +32,8 @@
 
 == PROFILE
 sep_line
-Systems programmer specializing in low-level C development, custom memory sub-allocators, and cross-platform concurrency primitives.
-Fluent across the development spectrum from raw native architectures to specification-driven backend implementations.
+Software engineer focused on systems programming, backend development, and AI-assisted software engineering.
+Builds maintainable software through modular architecture and modern development workflows.
 
 == EDUCATION
 sep_line

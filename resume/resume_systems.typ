@@ -32,8 +32,8 @@
 
 == PROFILE
 sep_line
-Systems programmer focused on bare-metal C engineering, virtual memory sub-allocation, custom language runtimes, and x86_64 assembly.
-Track record of delivering ABI-stable, modular cross-platform infrastructure from scratch.
+Software engineer focused on low-level systems development and reusable native infrastructure.
+Built memory managers, language runtimes, and cross-platform software from first principles.
 
 == EDUCATION
 sep_line

@@ -32,8 +32,8 @@
 
 == PROFILE
 sep_line
-AI/ML engineering student specializing in fine-tuning transformer architectures for speech audio classification.
-Experienced across the full lifecycle of applied deep learning, from optimized dataset pipeline preprocessing to agentic, specification-driven development workflows.
+AI/ML engineering student with hands-on experience in speech processing, deep learning, and AI-assisted software engineering.
+Applying strong software engineering fundamentals alongside machine learning to build reliable software systems
 
 == EDUCATION
 sep_line
