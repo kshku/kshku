@@ -22,7 +22,7 @@
   #block(text(weight: "bold", size: 1.5em)[K SHREEKRISHNA UPADHYAYA])
   #v(-0.5em)
   #text(size: 0.9em)[
-    Manglore, India
+    Mangalore, India
     | P: +91 9686108613
     | #link("mailto:upadhyayashreekrishna@gmail.com")[upadhyayashreekrishna\@gmail.com]
     | #link("https://www.linkedin.com/in/kshku")[linkedin.com/in/kshku]
@@ -50,13 +50,13 @@ sep_line
 
 Collection of 13 cross-platform C libraries providing reusable building blocks for native software development, extracted from an experimental game engine and subsequent projects as the repeated-need pattern emerged.
 
-- Designed 7 memory allocator strategies (linear, stack, pool, freelist, queue, ring buffer, frame) behind a unified `SnMemoryAllocator` vtable interface; backed allocators with a two-phase virtual memory subsystem using `mmap`/`VirtualAlloc` reserve-commit pattern
+- Designed 7 memory allocator strategies (linear, stack, pool, freelist, queue, ring buffer, frame) behind a unified `SnMemoryAllocator` interface; backed allocators with a two-phase virtual memory subsystem using `mmap`/`VirtualAlloc` reserve-commit pattern
 - Built cross-platform threading primitives (mutex, rwlock, semaphore, spinlock, condvar, thread) using opaque ABI-stable byte buffers that never leak platform types to headers; hand-wrote atomics in x86_64 inline assembly with explicit `lfence`/`sfence`/`mfence` placement for memory ordering semantics
 - Designed a multi-threaded event tracer with per-thread ring buffers to minimize lock contention, a two-phase begin/commit event API, and Chrome Trace Event Format (JSON) output for visualization in standard trace viewers
 - Architected a two-tier logging system: ring buffer for low-latency fast-path enqueue with heap-backed overflow fallback; thread-safety is optional, left to user-provided lock hooks; pluggable sinks via function-pointer abstraction
 - Extracted testing infrastructure from Snuk into SnTest, a reusable unit testing framework maintained as part of the ecosystem
 
-*Snuk | C* #h(1fr) April 2026 -- June 2026 \
+*Snuk | C* #h(1fr) April 2026 -- Present \
 
 Embeddable scripting language with expression-oriented semantics and a custom lightweight runtime (~6K lines of C).
 

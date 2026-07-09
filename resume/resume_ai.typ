@@ -22,7 +22,7 @@
   #block(text(weight: "bold", size: 1.5em)[K SHREEKRISHNA UPADHYAYA])
   #v(-0.5em)
   #text(size: 0.9em)[
-    Manglore, India
+    Mangalore, India
     | P: +91 9686108613
     | #link("mailto:upadhyayashreekrishna@gmail.com")[upadhyayashreekrishna\@gmail.com]
     | #link("https://www.linkedin.com/in/kshku")[linkedin.com/in/kshku]
@@ -46,7 +46,7 @@ Relevant Coursework: Artificial Intelligence, Machine Learning, Data Structures
 == PROJECTS
 sep_line
 
-*DADS (Detection and Analysis of Disfluencies in Speech) | Python, PyTorch, Librosa* #h(1fr) September 2025 -- November 2025 \
+*DADS (Detection and Analysis of Dysfluencies in Speech) | Python, PyTorch, Librosa* #h(1fr) September 2025 -- November 2025 \
 
 Stuttering dysfluency detection system on the SEP-28k dataset, exploring both per-type and multi-label CNN architectures.
 
@@ -70,7 +70,7 @@ Collection of 13 cross-platform C libraries (memory allocators, threading, loggi
 
 - Designed 7 memory allocator strategies behind a unified interface; hand-wrote x86_64 atomics with explicit memory-ordering fences for cross-platform threading primitives
 
-*Snuk | C* #h(1fr) April 2026 -- June 2026 \
+*Snuk | C* #h(1fr) April 2026 -- Present \
 
 Embeddable scripting language with a custom lexer, recursive-descent parser, and tree-walking interpreter (~6K lines of C), including reference-counted memory management.
 

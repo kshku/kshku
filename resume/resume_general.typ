@@ -22,7 +22,7 @@
   #block(text(weight: "bold", size: 1.5em)[K SHREEKRISHNA UPADHYAYA])
   #v(-0.5em)
   #text(size: 0.9em)[
-    Manglore, India
+    Mangalore, India
     | P: +91 9686108613
     | #link("mailto:upadhyayashreekrishna@gmail.com")[upadhyayashreekrishna\@gmail.com]
     | #link("https://www.linkedin.com/in/kshku")[linkedin.com/in/kshku]
@@ -57,7 +57,7 @@ Collection of 13 cross-platform C libraries providing reusable building blocks f
 - Applied variable-length quantity encoding for alignment bookkeeping, reused independently across two unrelated allocators
 - Extracted testing infrastructure from Snuk into SnTest, a reusable unit testing framework maintained as part of the ecosystem
 
-*Snuk | C* #h(1fr) April 2026 -- June 2026 \
+*Snuk | C* #h(1fr) April 2026 -- Present \
 
 Embeddable scripting language with expression-oriented semantics and a custom lightweight runtime (~6K lines of C).
 
@@ -65,7 +65,7 @@ Embeddable scripting language with expression-oriented semantics and a custom li
 - Built a lexical analyzer, recursive-descent parser, and tree-walking interpreter with first-class functions and closures
 - Maintained cross-platform build and test infrastructure via GitHub Actions CI/CD
 
-*DADS (Detection and Analysis of Disfluencies in Speech) | Python, PyTorch, Librosa* #h(1fr) September 2025 -- November 2025 \
+*DADS (Detection and Analysis of Dysfluencies in Speech) | Python, PyTorch, Librosa* #h(1fr) September 2025 -- November 2025 \
 
 Stuttering dysfluency detection system on the SEP-28k dataset, exploring both per-type and multi-label CNN architectures.
 
