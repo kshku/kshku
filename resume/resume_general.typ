@@ -25,7 +25,8 @@
 
 == PROFILE
 sep_line
-Software engineer who writes low-level C — memory allocators, threading, virtual memory, language runtimes — and also works through specification-driven, AI-assisted workflows on separate projects.
+Software engineer focused on systems programming, backend development, and AI-assisted software engineering.
+Builds maintainable software through modular architecture and modern development workflows.
 
 == EDUCATION
 sep_line
