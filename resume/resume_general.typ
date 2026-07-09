@@ -32,9 +32,8 @@
 
 == PROFILE
 sep_line
-Developer who builds systems from scratch.
-Focused on low-level C programming — memory allocators, threading primitives, virtual memory, cross-platform abstractions, and language runtimes — with a history of extracting reusable infrastructure from project-specific code.
-Comfortable across the full spectrum of modern development, from hand-written systems C to specification-driven, AI-assisted implementation.
+Systems programmer specializing in low-level C development, custom memory sub-allocators, and cross-platform concurrency primitives.
+Fluent across the development spectrum from raw native architectures to specification-driven backend implementations.
 
 == EDUCATION
 sep_line

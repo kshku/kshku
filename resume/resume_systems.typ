@@ -32,7 +32,8 @@
 
 == PROFILE
 sep_line
-Systems programmer focused on low-level C — memory allocators, threading primitives, virtual memory abstraction, hand-written x86_64 assembly, and language runtimes — with a track record of extracting reusable, cross-platform infrastructure from project-specific code and maintaining it as independently-versioned libraries.
+Systems programmer focused on bare-metal C engineering, virtual memory sub-allocation, custom language runtimes, and x86_64 assembly.
+Track record of delivering ABI-stable, modular cross-platform infrastructure from scratch.
 
 == EDUCATION
 sep_line

@@ -32,7 +32,8 @@
 
 == PROFILE
 sep_line
-AI/ML engineering student building both applied models and the infrastructure around them. Currently fine-tuning transformer-based audio models for speech dysfluency classification, alongside hands-on experience with specification-driven, agentic AI development workflows. Comfortable adapting engineering approach to the problem — from hand-written systems C to AI-assisted implementation pipelines.
+AI/ML engineering student specializing in fine-tuning transformer architectures for speech audio classification.
+Experienced across the full lifecycle of applied deep learning, from optimized dataset pipeline preprocessing to agentic, specification-driven development workflows.
 
 == EDUCATION
 sep_line
