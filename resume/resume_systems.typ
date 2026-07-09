@@ -25,8 +25,7 @@
 
 == PROFILE
 sep_line
-Software engineer focused on low-level systems development and reusable native infrastructure.
-Built memory managers, language runtimes, and cross-platform software from first principles.
+Software engineer focused on low-level systems development: memory allocators, threading primitives, virtual memory abstraction, and language runtimes, built as reusable, cross-platform native infrastructure.
 
 == EDUCATION
 sep_line

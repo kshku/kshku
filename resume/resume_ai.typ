@@ -25,8 +25,8 @@
 
 == PROFILE
 sep_line
-AI/ML engineering student with hands-on experience in speech processing, deep learning, and AI-assisted software engineering.
-Applying strong software engineering fundamentals alongside machine learning to build reliable software systems
+AI/ML engineering student.
+Fine-tuning transformer-based audio models for speech dysfluency detection, with additional experience directing an agentic, specification-driven development workflow on a separate project.
 
 == EDUCATION
 sep_line

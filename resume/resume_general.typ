@@ -25,8 +25,7 @@
 
 == PROFILE
 sep_line
-Software engineer focused on systems programming, backend development, and AI-assisted software engineering.
-Builds maintainable software through modular architecture and modern development workflows.
+Software engineer who writes low-level C — memory allocators, threading, virtual memory, language runtimes — and also works through specification-driven, AI-assisted workflows on separate projects.
 
 == EDUCATION
 sep_line
@@ -66,8 +65,7 @@ Open-source contributor with 17 merged pull requests to an active codebase.
 - Fixed tab-completion prefix errors and multi-line continuation bugs in quoted strings
 
 *Additional Projects:* \
-Regex Engine (Thompson NFA construction and simulation in C), StateFlow (DFA/NFA simulator), \
-Winner of Nexathon 2025 (SDIT) and DevHack 2025 (Sahyadri College).
+Regex Engine (Thompson NFA construction and simulation in C), StateFlow (DFA/NFA simulator).
 
 == SKILLS
 sep_line
