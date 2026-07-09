@@ -1,5 +1,5 @@
 #import "components/header.typ" : header
-#import "components/education.typ" : engineering
+#import "components/education.typ" : be
 
 #set document(
   title: "Resume: K Shreekrishna Upadhyaya",
@@ -30,7 +30,7 @@ Builds maintainable software through modular architecture and modern development
 
 == EDUCATION
 sep_line
-#engineering
+#be
 
 == PROJECTS
 sep_line

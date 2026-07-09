@@ -1,5 +1,5 @@
 #import "components/header.typ" : header
-#import "components/education.typ" : engineering
+#import "components/education.typ" : be
 
 #set document(
   title: "Resume: K Shreekrishna Upadhyaya - Systems",
@@ -29,7 +29,7 @@ Software engineer focused on low-level systems development: memory allocators, t
 
 == EDUCATION
 sep_line
-#engineering
+#be
 Relevant Coursework: Operating Systems, Data Structures, Computer Networks
 
 == PROJECTS

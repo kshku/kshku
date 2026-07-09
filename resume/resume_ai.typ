@@ -1,5 +1,5 @@
 #import "components/header.typ" : header
-#import "components/education.typ" : engineering
+#import "components/education.typ" : be
 
 #set document(
   title: "Resume: K Shreekrishna Upadhyaya - AI/ML",
@@ -30,7 +30,7 @@ Fine-tuning transformer-based audio models for speech dysfluency detection, with
 
 == EDUCATION
 sep_line
-#engineering
+#be
 Relevant Coursework: Artificial Intelligence, Machine Learning, Data Structures
 
 == PROJECTS
