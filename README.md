@@ -79,7 +79,7 @@ Snuk is an experimental language project for exploring language design, parsing,
 - High-performance Computing
 
 ---
-[Resumes](./Resume_K_Shreekrishna_Upadhyaya.pdf)
+[Resumes](./resume/pdf)
 | [GitHub](https://github.com/kshku)
 | [LinkedIn](https://linkedin.com/in/kshku)
 | <upadhyayashreekrishna@gmail.com>
