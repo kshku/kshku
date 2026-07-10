@@ -3,7 +3,7 @@
 Curious engineering student focused on low-level development, systems programming, software architecture, and interested in AI.
 Learning through experimentation and hands-on projects while exploring modern software development workflows.
 
-📄 [**Resume**](./resume/pdf/Resume_K_Shreekrishna_Upadhyaya.pdf)
+📄 [**Resume**](./resume/Resume_K_Shreekrishna_Upadhyaya.pdf)
 
 Most of my projects are built to better understand how software works by implementing concepts from scratch while exploring modern software development workflows.
 
@@ -47,7 +47,7 @@ Unlike my other projects, FinDiary is being developed using a Specification-Driv
 
 ### 📜 [Snuk](https://github.com/kshku/Snuk)
 
-An embeddable scripting language written in C.
+An embeddable scripting language with expression-oriented semantics, written in C.
 
 Snuk is an experimental language project for exploring language design, parsing, interpretation, and runtime environments.
 
@@ -79,7 +79,6 @@ Snuk is an experimental language project for exploring language design, parsing,
 - High-performance Computing
 
 ---
-[Resumes](./resume/pdf/Resume_K_Shreekrishna_Upadhyaya.pdf)
-| [GitHub](https://github.com/kshku)
+[Resumes](./resume/Resume_K_Shreekrishna_Upadhyaya.pdf)
 | [LinkedIn](https://linkedin.com/in/kshku)
 | <upadhyayashreekrishna@gmail.com>
